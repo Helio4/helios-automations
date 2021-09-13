@@ -1,5 +1,5 @@
 # Helio's Automations
-This is a list of small scripts I have made to make my life easier and avoid a lot of repetitive tasks. These are intended for my own personal use, so they are not exactly "user-friendly," but free to ask if you need help using them or installing dependencies!
+This is a list of small scripts I have made to make my life easier and avoid a lot of repetitive tasks. These are intended for my own personal use, so they are not exactly "user-friendly," but feel free to ask me if you need help using them or installing dependencies!
 ## List of scripts and what they do:
 * [DLsiteMetadataDownloader.py](https://github.com/Helio4/helios-automations/blob/main/DLsiteMetadataDownloader.py): Given a DLsite RJ code, this script will scrap the metadata for the product page and apply it to the mp3 files. This is intended for music or voice dramas.
 * [TwitterImageProcessing.py](https://github.com/Helio4/helios-automations/blob/main/TwitterImageProcessing.py): Given a Tweet URL it will download its images, denoise them using  [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) and sort them into the right folder, adding a shortcut file to the tweet in said folder. The config.json file is formated as follows: <details>
