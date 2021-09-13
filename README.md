@@ -16,4 +16,5 @@ This is a list of small scripts I have made to make my life easier and avoid a l
   }
   ```
 </details>
+
 * [set-styles-by-actor.lua](https://github.com/Helio4/helios-automations/blob/main/Aegisub%20Scripts/set-styles-by-actor.lua): This Aegisub script changes the style of every line based on their actor. If there's a style that exactly matches the actor then the style will be changed to that one. Very useful if you like doing the translation in a plain text file like I do first.
